@@ -1,0 +1,9 @@
+
+h2o==3.42.0.1
+h2o_wave==0.28.0
+gradio==4.38.1
+pandas
+numpy
+scikit-learn
+matplotlib
+shap
